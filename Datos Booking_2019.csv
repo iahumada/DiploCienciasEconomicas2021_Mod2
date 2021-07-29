@@ -1,668 +1,668 @@
-fid,name,price,rating,reviews,stars
-1,Hotel Waldorf,2984.5,7.8,954,3
-2,Hostel Suites Florida,1968.5,7.7,3186,
-3,Hotel Reconquista Plaza,2730.5,7.5,3568,4
-4,Infinito Hotel,5143.5,8.1,755,3
-5,Recoleta Luxury Boutique Hotel,3746.5,8,1796,4
-6,Regal Pacific Puerto Madero,9842.5,8.5,446,5
-7,Hotel Bristol,2540,8.5,2963,4
-8,Tribeca Buenos Aires Apart,3111.5,8.1,1237,3
-9,Apart Grecia,2540,9.7,51,
-10,Nicaragua 6062 Palermo Hollywood,2794,7.4,6,
-11,River Hotel,2159,8,789,3
-12,Urbanica The Libertador Hotel,7302.5,8.5,455,4
-13,Hotel Aeroparque Inn & Suites,4064,7.5,1417,3
-14,Departamento con piscina. cochera y parrilla,4318,9.1,76,
-15,Espacio POP - Apartments,2730.5,7.2,152,3
-16,Luxury Loft Puerto Madero,4318,9.5,253,
-17,Dazzler by Wyndham Polo,11112.5,8.9,1813,4
-18,Centuria Hotel Buenos Aires,3746.5,8,1964,4
-19,2055 Boutique Hotel low Cost,2857.5,7.5,62,4
-20,Hotel Pacifico,1270,7.5,2342,2
-21,Hotel Avenida,2857.5,8.2,684,2
-22,Soho Loft BA,3175,9.4,36,
-23,Alvear Art Hotel,14986,9.1,584,5
-24,Duque Hotel Boutique & Spa,7175.5,9,677,4
-25,Dazzler by Wyndham Buenos Aires Maipu,5334,8.4,525,4
-26,Dazzler by Wyndham Buenos Aires Recoleta,8445.5,8,1701,4
-27,Suipacha Suites,3746.5,8.4,2188,3
-28,Catalinas Suites,2730.5,7.2,2324,3
-29,Ibis Buenos Aires Obelisco,5778.5,8.2,1883,3
-30,Mérit San Telmo,4191,8.5,3261,3
-31,Gran Hotel Ailen,3048,8.4,1325,3
-32,Ramada by Wyndham Buenos Aires Centro,5270.5,8.9,44,4
-33,Goya Hotel,2476.5,7.8,1633,3
-34,Hotel Facon Grande,4064,8.4,2436,3
-35,DEL900 Hostel Boutique,3810,8.3,1030,
-36,Hotel Lyon,3365.5,7.8,3062,3
-37,Hotel Alma De Buenos Aires,3111.5,7,1126,3
-38,Hotel Athos,1841.5,7.4,908,3
-39,Hotel Palermo,2794,8,1208,2
-40,The Loft Hotel,2222.5,7,412,
-41,Estudio PARAGUAY,3048,6.5,5,
-42,Hotel Plaza Roma,2857.5,7.5,1203,3
-43,Up Recoleta Hotel,4889.5,8.8,1759,3
-44,2055 Petit Hotels,2540,7.3,1154,3
-45,Hotel Cristoforo Colombo,4318,6.7,2641,4
-46,Hotel Mundial,3048,7.3,3044,2
-47,jackson soho,4254.5,8.7,52,
-48,Unique Palacio San Telmo,2857.5,7.9,3563,4
-49,America Plaza Hotel,3683,7.4,1126,3
-50,Depto monoambiente en Recoleta,2540,8.1,9,
-51,Milhouse Hostel Avenue,3810,8.6,1613,
-52,Exe Hotel Colón,4254.5,7,7684,4
-53,Recoleta spot,2159,9.2,12,
-54,Palermo,3048,8.9,79,
-55,Hotel Intersur San Telmo,3619.5,8.7,530,3
-56,Gran Hotel Vedra,2794,8.2,587,2
-57,A Hotel,3365.5,7.9,1245,3
-58,La Morada,1206.5,6.4,261,
-59,Recoleta Beautiful Apartment II,3175,9.9,14,
-60,Hotel Splendid,1968.5,6.8,820,3
-61,Hotel Alcazar,2540,7.6,1609,1
-62,Monita Hostels,3111.5,8.6,321,
-63,Malevo Murana Hostel,2286,9,1066,
-64,Hotel Provincial del Once,825.5,5.1,176,
-65,King's Hotel,2794,7.3,879,2
-66,Hotel Gran Vía,1905,7.3,965,1
-67,Arribo Buenos Aires Hotel Boutique,2476.5,8.2,793,3
-68,Viasui Hotel,3175,8.1,943,3
-69,Circus Hostel,2159,8.5,1379,
-70,Hotel Tres Sargentos,2667,7.6,727,2
-71,Howard Johnson Plaza Florida,6350,8.2,1536,4
-72,Bohemia Buenos Aires Hotel,4254.5,7.9,748,3
-73,Telmho Hotel Boutique,5016.5,8.2,414,3
-74,Patios de Recoleta,1333.5,7.3,905,1
-75,Hotel Reconquista Garden,3302,7.8,3017,4
-76,Art Factory On Tap,4572,8.1,1794,
-77,Palermo Soho Square,6223,9.2,262,
-78,Hotel 8 de Octubre,4635.5,8.1,1213,3
-79,Gran Hotel Argentino,3365.5,7.6,2867,3
-80,Hotel San Antonio,2984.5,8.1,85,3
-81,O-Baires,4508.5,7.7,2146,3
-82,Épico Recoleta Hotel,4889.5,7.3,1506,3
-83,Patios de San Telmo,7620,8.5,1076,4
-84,VG Recoleta,4254.5,9.7,6,
-85,Mayflower Suites,2984.5,7.4,1540,3
-86,Viejo Telmo,1397,6.4,971,2
-87,O2 Hotel Buenos Aires,4254.5,8,887,3
-88,San Remo City Hotel,2984.5,7.4,2429,3
-89,Le Cinque Lusso Recoleta,4889.5,7,1156,4
-90,Unique Art Madero,5270.5,7,3783,4
-91,Europlaza Hotel & Suites,4064,8.1,1449,3
-92,Hotel Carrara,1968.5,8,573,2
-93,Hotel Victory,2667,6.9,603,3
-94,Blanro Hotel,2476.5,7.7,506,2
-95,Gran Hotel Atlantic,1651,7.9,1816,2
-96,Hotel Central,1079.5,5.3,386,2
-97,Greenwich Buenos Aires B&B,3238.5,8.7,660,
-98,Hotel Centro Naval,3238.5,8,448,3
-99,Hotel Nontue Abasto Buenos Aires,4000.5,7.2,1468,3
-100,SATO HOSTEL,2413,8.3,850,
-101,Art Factory Soho,3302,7.7,1377,
-102,Castex y Salguero Palermo Aeroparque Newbery,,8.5,62,
-103,Hotel KEY´S,1587.5,8.2,113,1
-104,Hotel O'Rei,1016,6.3,882,1
-105,BA Tango Apartments Paso,,8.2,8,
-106,Hotel Luey,,7.6,1678,3
-107,Duomi Plaza Hotel,3746.5,8.1,2221,3
-108,Intersur Suites,4000.5,8.8,1133,3
-109,Che Argentina Hostel Suites,1524,7.7,363,
-110,Hotel Boutique Bonito Buenos Aires,,8.3,420,3
-111,Charcas Cozy Apartment,,8.3,35,
-112,Residencia Esplendida,,9,11,
-113,Encantador departamento en Centro Histórico,,9.6,9,
-114,Hotel First Palermo,4762.5,7.4,749,3
-115,Hotel Isis,1016,6.2,191,2
-116,Gran Hotel Oriental,1143,6.9,939,2
-117,Astoria Hotel,2476.5,7.7,605,2
-118,Hotel Nuevo Camino,1524,8.1,769,1
-119,Novel Hotel,2540,6.5,681,2
-120,Hotel Costa Rica,3365.5,8.1,1146,3
-121,Le B Club Boutique & Terrasse,2984.5,8,2159,4
-122,Palermo Living Unique Rooms,3111.5,8.4,312,3
-123,Mordomo,2032,7.5,318,
-124,Sarmiento Palace Hotel,3492.5,7.9,870,3
-125,Studio Av Santa Fe,,8.4,21,
-126,Ventana al Obelisco (MIcrocentro),,9.2,26,
-127,Hotel Bys Palermo,5905.5,8.5,1598,4
-128,Real Splendid Hotel,1714.5,7.1,485,2
-129,Gaurez,3175,9.9,7,
-130,Alma del Plata Buenos Aires Hotel & Apart,2095.5,7.7,517,3
-131,Classic 2 BR in Recoleta with 300Mb Internet!,8890,9.5,11,
-132,Echeverria Petit,2540,8.9,34,
-133,Apart Hotel Comra,2730.5,8.3,413,
-134,Hotel Pulitzer Buenos Aires,7747,8.4,1300,4
-135,Hub Porteño,26289,9.2,62,5
-136,Viamonte Buenos Aires Apart,3111.5,8.6,2208,3
-137,Babel Belgrano,3365.5,8.4,226,
-138,Eugene City,3238.5,9.6,67,
-139,Unique Executive Central,2857.5,7.9,2234,4
-140,Gorriti Suites & Studios,2540,8.7,11,
-141,Hotel Petit Benitos,1270,5.8,210,
-142,Ilum Experience Home,9080.5,9.4,606,4
-143,Anchorena Plaza Apartments,3619.5,7.2,93,3
-144,Baires Homes - Belgrano,4762.5,9.2,86,
-145,Gran Hotel Buenos Aires,2667,7.3,2406,4
-146,Palermo Soho Buenos Aires Apartment,9080.5,6.8,15,
-147,Casa Umare,9144,9.7,17,4
-148,Hotel De La Rue,1905,5.2,236,2
-149,Departamento Cordoba,1587.5,9,18,
-150,Bar de Fondo Suites,2603.5,8.7,104,
-151,Suites Congreso,3175,7.1,23,
-152,Palermo Soho Espectacular! 6 personas,8255,7.8,3,
-153,Hotel Parlamento,1778,7.7,373,3
-154,INES,2857.5,9.8,13,
-155,Studio en Villa Urquiza. cerquita de CEMIC Saavedra,2857.5,9.8,40,
-156,Soho Point Central,3937,9,72,3
-157,Be Acht Studio,3175,9.8,11,
-158,Espacia Suites,6223,8.7,159,4
-159,Recoleta Flats,2984.5,8.1,692,
-160,Palermo Apartments,2476.5,8.7,455,
-161,Nuñez Suites,3492.5,7,250,
-162,French 3022,2476.5,8.3,19,
-163,Hotel Central Cordoba,1651,6.2,755,2
-164,Hotel Impala,3746.5,7.4,646,3
-165,Sabatico Travelers Hostel & Guesthouse,1714.5,8.2,283,
-166,Hotel Bahia,1016,7.3,250,
-167,BA STOP Hostel,1587.5,8.3,747,
-168,Hostel Colonial,1651,8.1,634,
-169,Cruce´s Hotel Boutique,5715,8.8,391,4
-170,Boutique Room - w/Private bath,4127.5,9.5,19,
-171,Babel Soho,3746.5,8.7,363,
-172,Luxury Apartment Tagle,4953,9.6,23,
-173,NH Collection Buenos Aires Crillón,5397.5,8.3,812,4
-174,Hotel Manzanares Plaza,1841.5,6.5,30,
-175,Hotel Tango Facultad,2667,6.9,72,3
-176,Hotel Cuatro Reyes,1905,6.9,524,4
-177,248 Finisterra,5080,8.6,352,4
-178,CH Madero Urbano Suites,6921.5,8.2,1033,4
-179,NH Buenos Aires Florida,6223,8.2,640,4
-180,Alfa Hotel,2222.5,8,520,1
-181,Elegante y fino departamento en Palermo chico,6540.5,9.4,8,
-182,Baires Alquileres,2857.5,8.4,129,
-183,Bonjour My Vera,3238.5,9.1,79,
-184,Fierro Hotel Buenos Aires,14160.5,9.4,236,4
-185,Sileo Hotel,7556.5,8.6,607,4
-186,Bue Apartments,3111.5,8.3,620,
-187,BA Sohotel,9461.5,7.9,415,4
-188,Mundo vita,3746.5,8.6,35,
-189,Nomad Apartments,4127.5,8.6,5,
-190,Departamento Del Botanico,3175,8.3,33,
-191,Hotel Club Frances,13335,8.7,139,5
-192,Belles Suites,5080,7.7,89,
-193,Medrano Kind,5080,9.4,66,
-194,La Barca Hotel,1143,8,287,
-195,Apartamento en Las Cañitas. amplio. luminoso. balcón y WiFi,2857.5,10,6,
-196,Cañitas Studio,1905,7.2,42,
-197,Departamento en Apart hotel 2 Ambientes. Excelente ubicacion. Microcentro,2540,9.3,5,
-198,Reina Madre Hostel,2159,8.5,561,
-199,CASA DEVOTO 3631 1-B,3048,9.8,14,
-200,Departamento Aguero 2281,2476.5,7.9,25,
-201,Arenales Suites,3810,8,904,
-202,Hotel Condor,1714.5,6.2,215,
-203,Daniela en Las Cañitas,2286,9.9,8,
-204,EC Apartments,4572,9.4,15,
-205,hotel egipto,1714.5,5.9,7,
-206,LikeHome Palermo D1,4762.5,9.4,31,
-207,La Casa de los Pajaros,2921,8.1,4,
-208,Loft click,1397,8.6,3,
-209,Graduado,1143,8.5,9,
-210,Petit El Vitraux,3492.5,9,112,
-211,BUENOS AIRES EXPERIENCE - Av Corrientes - Obelisco,2540,8.7,8,
-212,Top Rentals Palermo,5461,9.7,30,
-213,Alvear Palace Hotel - Leading Hotels of the World,32385,9.2,524,5
-214,Bauen Hotel,2667,7.4,996,2
-215,Vitrum Hotel,10160,8.6,306,4
-216,Luxury Residence,9080.5,9.4,18,
-217,Tunez Suites,3111.5,8,8,
-218,Urban 011,2159,6.9,8,
-219,Casa de Familia - Solo Para Mujeres *Woman ONLY*,1587.5,8.7,61,
-220,Libertador,3810,8.5,5,
-221,Algodon Mansion,27749.5,9,84,5
-222,Luminoso y amplio departamento 2 ambientes en Palermo Hollywood,3619.5,9.9,18,
-223,Art Suites & Gallery,6858,8.9,518,4
-224,Eco House,1778,8.5,65,
-225,La Bamba Student Hostel,1524,8.5,98,
-226,06 Central Hostel Buenos Aires,1079.5,8,528,
-227,Balboa b&b,1968.5,9.6,5,
-228,Vi Luz y Entre Hostel,889,6.6,21,
-229,Rayuela Hostel,1524,10,3,
-230,HOTEL REGIS,3429,7.3,45,3
-231,Loft en Villa Crespo a Cuadras del nuevo estadio Arenas y de Palermo,3175,8.4,4,
-232,NH Buenos Aires Latino,6159.5,8.6,934,4
-233,Hotel Napoleón,2222.5,7.3,273,3
-234,Villa crespo,1270,7.7,10,
-235,Hotel Internacional,2984.5,8,1220,2
-236,Hotel Principe,3365.5,8.2,80,2
-237,Vinilo Apartment Recoleta,2857.5,9.9,4,
-238,Republica Palermo,5080,8,325,
-239,Le Batiment Apartmentos,2349.5,9,1342,
-240,Libertador Hotel,11938,8,876,5
-241,Hotel Rey,2095.5,7.9,639,3
-242,Palermo Hollywood,1460.5,7.8,129,
-243,Cozy Apartment in Palermo,2413,8.9,75,
-244,Alpino Hotel,4127.5,7.4,1233,3
-245,Hotel Reina,2413,7.5,1102,2
-246,Holiday Inn Express Puerto Madero,11430,8.5,590,4
-247,Campamentos Urbanos,2095.5,9.1,102,
-248,Hotel Varela,1333.5,7.3,218,
-249,Loft Av Cordoba,1524,7.5,44,
-250,Petit amour Alto Palermo,5588,9.1,40,
-251,Hotel Grand Brizo Buenos Aires,8318.5,9.3,1502,4
-252,Hotel La Piedad,1524,8.3,308,
-253,ABADIA PALERMO,2349.5,8.6,189,
-254,Glorious Studio Palermo Hollywood,4254.5,8.3,16,
-255,Back in BA hostel,1651,7.9,298,
-256,Icaro Suites,6540.5,8.7,1140,4
-257,Studio Recoleta. Gran Ubicación,5588,8.4,14,
-258,NH Collection Buenos Aires Lancaster,10350.5,8.8,416,4
-259,Yerbal 721,2540,8.5,31,
-260,Av. Corrientes 820,3429,8.5,98,
-261,BULNES Cozy Apartment,3048,9.3,15,
-262,Origen,2032,7.6,30,
-263,Hotel Cosme,1333.5,6.9,86,2
-264,Hotel La Perla,3238.5,7.7,673,3
-265,Departamentos alquiler temporario Balvanera,3048,8.1,52,
-266,Charming SanTelmo Location,3175,9.7,9,
-267,Panamericano Buenos Aires,13779.5,8.4,1366,5
-268,Grand King Hotel,3556,7.9,1575,4
-269,The Luxury at 1530 by Luxury Apartments Buenos Aires,4381.5,8.7,11,
-270,Tucuman Palace Hotel,2603.5,7.2,1318,2
-271,Paraguay 716 We sleep,4254.5,8.9,407,
-272,Babel Apartments Palermo I,4826,7.5,243,
-273,Soho Point Palermo,4000.5,8.2,423,
-274,2415 Palermo,3048,8.9,246,
-275,ARC Recoleta Boutique Hotel & Spa,10287,8.7,1203,4
-276,Estudio a 2 cuadras de Av Santa Fe,2667,8.4,42,
-277,Leonardo Da Vinci Residence,2413,8.1,599,
-278,Cuba Suites,4318,8.3,19,
-279,Hotel Intersur Recoleta,8826.5,8.7,846,4
-280,Hotel Metropolitano Supara,4127.5,9,462,4
-281,Rosedal Suite,3492.5,7.7,815,
-282,HOTEL PARIS,2032,6.5,17,
-283,Hotel Chile,1905,7.1,376,2
-284,Hotel Colonial,2476.5,6.5,72,3
-285,NH Buenos Aires 9 de Julio,7239,8.6,598,4
-286,Departamento Moderno proximo a Avenida Corrientes y Obelisco,2921,7.8,28,
-287,Lafayette Hotel,5715,8.3,879,4
-288,Ker Belgrano Apart & Spa,6985,8,771,4
-289,Hotel Irun,3873.5,7.9,142,3
-290,Atempo Design Hotel,9842.5,8.2,236,4
-291,Tiana Hotel Boutique,4889.5,7.9,398,4
-292,Innayres Suites,3556,8.9,192,
-293,Sissi Haz Hotel,5778.5,9.1,595,3
-294,Ker Historic San Telmo,6159.5,9.3,57,4
-295,Monoambiente en el centro de Recoleta,3492.5,9.1,24,
-296,Apartment Cerviño Buenos Aires,3429,9.4,128,
-297,Scala Hotel Buenos Aires,5207,8.8,791,4
-298,Ayacucho Palace Hotel,3429,7.8,742,2
-299,Departamento en Buenos Aires,2222.5,8.6,78,
-300,HTL 9 de Julio BsAs,2921,8.3,1646,4
-301,Hotel Quito,1778,8.4,443,
-302,Hostel Carlos Gardel,2095.5,8.5,319,
-303,Ideal social hostel,1587.5,8.6,612,
-304,Babel Studios,3111.5,7.8,1139,
-305,Rochester Hotel M,3111.5,7.8,293,4
-306,Art Factory Beer Garden,2095.5,7.3,1053,
-307,Art Factory San Telmo,1524,7.7,1352,
-308,San Telmo Luxury Suites,6921.5,8.3,287,4
-309,Be Hollywood!,9652,8.3,276,4
-310,Corrientes Petit,3048,8.2,107,
-311,Charcas Hostel,1651,7.6,427,
-312,Alma Bohemia Hostel,1079.5,6.9,665,
-313,Hotel Parada,1524,7.8,740,1
-314,Kalahat,1587.5,8.9,231,
-315,Apart Corrientes 767,1651,6.5,696,
-316,Juramento de Lealtad Townhouse Hotel,4635.5,7.3,306,3
-317,5411 Soho Hotel,4508.5,8.1,484,3
-318,Apartamentos Comodoro,3429,8.2,5,
-319,Tower Rock Palermo Buenos Aires,6159.5,8,13,
-320,Hotel Pedraza,3683,8.4,181,1
-321,Own Express Recoleta,6096,8,1132,4
-322,Howard Johnson Hotel 9 de Julio Avenue,5080,7.9,543,4
-323,Hermoso departamento en Nuñez. Bs As. Argentina. 4 personas.,5016.5,8.3,7,
-324,Hotel Esperia,1905,7.3,223,1
-325,San Remo Apartments,2603.5,8,209,
-326,Hotel San Carlos,1714.5,6.8,363,2
-327,Departamento sobre Av. Corrientes al 800,2476.5,9,15,
-328,Meridiano Hostel Boutique,3492.5,8.8,559,
-329,Portal del Sur Hostel,2159,8.2,447,
-330,Aráoz 2926,2794,9,28,
-331,Hotel Minerva,952.5,7.3,179,1
-332,Hostelmo Hotel,1206.5,7.1,372,
-333,Cómodo y luminoso departamento estilo náutico,2159,9.7,8,
-334,Bliss Hostel,2857.5,7.6,170,
-335,Rugantino Hotel Boutique,6540.5,8.2,378,3
-336,Buenos Días Buenos Aires,3302,8.4,162,
-337,Two Hotel Buenos Aires,6223,8.1,1051,3
-338,Hotel Casona La Boheme,1651,8.6,239,
-339,Bisonte Libertad,4699,7.7,1484,4
-340,CH Le Petit Suites,3810,8.1,1050,4
-341,Corazón de Palermo Soho,2222.5,9.1,67,
-342,Rochester Hotel Concept,3429,7.4,292,3
-343,Apartur Buenos Aires,3048,7.6,275,
-344,Village Garden Apart Hotel,3429,7.5,162,3
-345,Tacha,3492.5,8.4,111,
-346,Hotel Etoile,7175.5,7.9,2485,4
-347,Hostel Estoril,1905,8.4,826,
-348,BA Hollywood Apartments,4889.5,7.6,223,
-349,Studios Montevideo,2540,9.3,159,
-350,Master Hostel Borges,1905,8.6,349,
-351,Gran Hotel Hispano,2603.5,8.2,795,2
-352,Callao 1234,4064,8.2,83,
-353,Hotel Piamonte,1397,8.2,15,2
-354,Palermo Soho Hostel,1651,5.8,671,
-355,Confortable Apartment,2984.5,8.4,10,
-356,Hotel Bel Air,6032.5,8.2,563,3
-357,Hotel & Hostel Chipre,1016,6.2,278,1
-358,Hotel UTHGRA de las Luces,2794,7.8,519,3
-359,Hotel UOM Buenos Aires,5207,9.2,804,3
-360,Metropolitan Highline,3619.5,7.9,54,
-361,Ker Urquiza Hotel & Suites,3873.5,7.7,1227,3
-362,Globales Republica,3937,7.7,4011,4
-363,Benita Hostel,3175,8.8,189,
-364,Hotel Siena,1841.5,8,144,1
-365,Recoleta Mediterráneo,4445,9,31,
-366,Estacion Palermo,4572,7.8,13,
-367,Bulnes Eco Suites,7239,9,1294,4
-368,Columbia Palace Hotel,4508.5,7.5,883,3
-369,Constitución Palace Hotel,5207,7.2,81,3
-370,Petit Recoleta Suites,2286,6.9,911,
-371,Apart San Cristobal,2540,9.4,60,
-372,Esplendor by Wyndham Buenos Aires,5969,8,335,4
-373,Syrah Suites,3492.5,8.6,751,
-374,Best View Puerto Madero,6858,9,57,
-375,Serena Hotel Buenos Aires,12890.5,8.6,328,5
-376,New & Light in Belgrano,5524.5,8.7,3,
-377,Hostel Tango Argentina,1397,6.2,270,
-378,NH Collection Buenos Aires Centro Histórico,11620.5,8.8,636,5
-379,Loft para 4 personas,4699,8.7,27,
-380,Faena Hotel - Master Suite - Residence,31051.5,8.8,20,
-381,Departamento centro vista al obelisco,3238.5,9.4,51,
-382,Buenos Aires House,1524,7,6,
-383,Gran Hotel España,1460.5,7.6,507,
-384,Art Suites,4889.5,8.4,553,4
-385,Emperador Hotel Buenos Aires,17589.5,8.7,182,5
-386,Imperial Park Hotel,4572,7.4,132,4
-387,Nuss Buenos Aires Soho,13843,8.7,380,5
-388,Departamento Tucuman y 25 de Mayo,5207,7.8,6,
-389,El Candil de San Telmo,3111.5,7.5,85,3
-390,Uno Buenos Aires Suites,4953,8.2,887,4
-391,Telmotango Hotel Suites,1524,7.2,703,
-392,BA Sucre Apart,3556,8.5,39,
-393,Hotel Aries Palermo,2032,7.6,366,1
-394,Master Hostel,1778,8.5,1220,
-395,Apart San Diego Recoleta,4508.5,8.2,888,3
-396,Embajador Hotel,4191,7.6,554,3
-397,Sunlight Recoleta Suites & Apartments,4064,7.9,172,
-398,Hotel Omega,2286,7.7,217,1
-399,Casa Chic Palermo Soho,6413.5,8.2,294,
-400,Park Silver Obelisco,4508.5,8.5,1964,4
-401,Magia y poesía,1905,8.4,4,
-402,Hotel Viedma,1079.5,7.8,17,
-403,Almagro Lujoso,2667,7.2,15,
-404,Amelia Apartment,2667,9.5,26,
-405,Montañeses petit,4064,9.1,54,
-406,Roosevelt,1714.5,8.2,259,
-407,Tanguero Hotel Boutique Antique,7048.5,8.9,273,4
-408,Hotel Palermitano by DON,10541,8.1,186,4
-409,Lemon Suites,5842,8.9,754,
-410,Key Hotels San Telmo,5270.5,8.1,143,4
-411,Garden House Hostel,1524,7.8,135,
-412,Shvili,2603.5,9.3,46,
-413,Home Hotel,13843,9,96,4
-414,LOPEZ Hostel & Suites,2794,8.8,358,
-415,Studio Esmeralda,3238.5,9.9,12,
-416,Mansion Vitraux Boutique Hotel,9588.5,8.7,461,
-417,Departamento Palermo Soho 2,3492.5,8.7,45,
-418,Gardel Flats,3365.5,8,71,
-419,Corrientes y Esmeralda,3619.5,8.5,49,
-420,Tango de Mayo Hotel,6477,9,2198,4
-421,Moderno Departamento Centrico 3P,2984.5,9.3,5,
-422,Dg Apart Obelisco,4000.5,9.4,24,
-423,Depto. Baires,4127.5,9,37,
-424,Cleopatra,3175,9.6,49,
-425,Top Rentals,7683.5,8.5,465,
-426,ARC Callao Studios & Suites,4127.5,8.7,754,
-427,Cyan Recoleta Hotel,7429.5,8.3,669,4
-428,Bosques de Palermo Apartment,2921,9.7,75,
-429,Anchorena Rent,3175,8.9,36,
-430,Lennox Buenos Aires,5842,8,615,4
-431,Mine Hotel,15240,9.3,306,4
-432,Regente Palace Hotel,4572,7.8,760,4
-433,Mio Buenos Aires,15875,8.9,330,5
-434,HR Luxor Hotel Buenos Aires,5270.5,7.9,701,4
-435,Edificio Bellini Esmeralda,6032.5,9.1,191,
-436,562 Nogaro,6096,7.8,702,4
-437,Own Grand Palermo Soho,11874.5,8.3,758,4
-438,Park Tower. A Luxury Collection Hotel. Buenos Aires,22987,9.3,48,5
-439,B&B Polo,6350,9.1,35,
-440,Uman,2540,8,15,
-441,Cyan Américas Towers Hotel,6858,8.1,747,4
-442,Awwa Suites & Spa,8953.5,8.1,670,4
-443,La Casona del Alma,1968.5,8.4,335,
-444,Top Rentals Libertador,8318.5,8.9,23,
-445,Sinclair 3044,3048,9.8,39,
-446,Premium Studio Palermo Soho,5651.5,8.9,6,
-447,Hostel Estoril 3°,2032,8.4,993,
-448,Destino Real Hotel,2794,7.3,99,3
-449,Habitación privada en Casa Cabrera,2286,8.9,28,
-450,Vacances San Telmo,5207,8.9,299,
-451,Libertador Pettit 2,4254.5,9.4,29,
-452,Urbanica The Suites Hotel,10033,8.1,173,4
-453,Guest House La Boca B&B,2540,9,41,
-454,Calle Larrea 1375 Departamento,5143.5,9.8,5,
-455,Apartamento Calle Corrientes,2540,8.5,15,
-456,Hostel Soleil,1270,7.1,186,
-457,Piran Loft,2540,9,25,
-458,Beautiful and bright apartment in Palermo,3873.5,9.3,17,
-459,Via Arriba B&B,3111.5,9.6,133,
-460,Hotel ATEPSA,1968.5,8.5,429,2
-461,Sheraton Buenos Aires Hotel & Convention Center,17589.5,7.8,578,5
-462,City Madero Buenos Aires,6286.5,9.2,10,
-463,Gran Hotel Libertad,1905,7.9,797,2
-464,Ker Recoleta Hotel & Spa,4635.5,7.8,2849,4
-465,Hostel Downtownmate,952.5,6.4,368,
-466,Flaat Recoleta Plaza,4381.5,7.8,248,
-467,Design cE - Hotel de Diseño,7683.5,8.5,263,4
-468,Mirabasto Rooms,1397,8.7,20,
-469,Pampa Plaza Hotel,10350.5,7.1,204,4
-470,Laprida Suites,5016.5,7.8,643,
-471,HISTORICO Bs As - Departamento a NUEVO!!!,4953,9.4,6,
-472,NH Buenos Aires Tango,9080.5,8.5,709,4
-473,Departamento en Palermo Soho,3873.5,8.6,15,
-474,STUDIO 2 Belgrano,5715,9.3,6,
-475,Comodo Depto Av Cordoba,3873.5,8.2,31,
-476,Abode Buenos Aires,8890,9.6,21,
-477,4 Aparts en el mismo edificio. excelente ubicación,5270.5,9.4,11,
-478,Luco B&B,2921,7,116,
-479,Mate de luna,1905,7.9,16,
-480,Amusing Apartment Recoleta,2984.5,8.7,71,
-481,Hotel del Prado,2667,6.6,72,
-482,Apart Independencia Luz y Fuerza Patagonia,2730.5,8.6,136,
-483,Hotel Sheltown,4127.5,6.9,369,4
-484,Fran Apartment Palermo Soho,3111.5,7.8,30,
-485,Hotel Boutique Raco De Buenos Aires,6540.5,8.3,75,4
-486,Arenales Apart Hotel,4254.5,7,31,
-487,La Cascada Townhouse Hotel,2984.5,7.2,131,2
-488,Hotel San Martin,2286,7.8,80,
-489,Dallas,1905,7.9,39,
-490,COZY APARTMENT SANTA FE,2857.5,8,27,
-491,Loft Palermo Soho I,7112,9.7,9,
-492,Petit Lacroze,5080,9.2,10,
-493,Hotel Plaza Garay,952.5,5.7,566,1
-494,Feels Like Home/ Como En Casa,3683,9.3,10,
-495,Florida Apartment,3873.5,9.3,24,
-496,PRETTY. EXCELLENT UBICATION/OBELISK 5 STARS!!!,5270.5,9.1,9,
-497,Palermo Viejo Bed & Breakfast,4254.5,8.9,292,
-498,Casa San Telmo 3100,4381.5,7.8,5,
-499,Sures Belgrano Suites,5207,7.7,181,3
-500,Soho Point,6985,8.8,215,
-501,Sagardi Loft Ostería San Telmo,7810.5,8.7,116,
-502,Palermo Beautiful Studio Apartment,4762.5,9.6,38,
-503,Apart Dorrego,2857.5,9.4,33,4
-504,Tritone Hotel,4000.5,8,1110,3
-505,ARC Abasto Studios,3810,9.2,299,
-506,Buenos Aires Inn Apart y Hotel,2857.5,7.4,1052,3
-507,Let Sun Hotel Boutique,6667.5,8.5,492,
-508,Cañitas Home,2095.5,4.4,3,
-509,San Carlos Hotel,1841.5,8.9,651,1
-510,Palermo Hollywood Studio,4635.5,9.7,13,
-511,CASA DEVOTO 3631 1º C,2921,9.7,5,
-512,Tango Cozy Cuba,9842.5,9.5,12,
-513,Apassionata Tango Hotel,2476.5,8.6,60,
-514,Hotel Americano,2603.5,7.6,376,2
-515,Sojo Apart Hotel,2540,6.4,426,3
-516,IDEAL CENTER,1714.5,8.5,64,
-517,Italia,2095.5,6.4,9,
-518,Che Juan Hostel BA,2095.5,9.7,508,
-519,Apartamentos Rent In Buenos Aires,4318,8.4,25,
-520,Feliz Haus Guesthouse,444.5,8.1,424,
-521,Loi Suites Esmeralda,8318.5,8.3,773,4
-522,Granados Hostel,889,7.8,1024,
-523,Studio en Palermo Soho,6858,9.4,81,
-524,ChillHouse,6350,8.8,113,
-525,Voyage Recoleta Hostel,1206.5,7.9,341,
-526,Mayla Apartments,5969,8.7,382,
-527,Play Hostel Arcos,1841.5,7.6,676,
-528,Puerto Limon Hostel,1587.5,8.3,1188,
-529,Departamento temporal Ciudad Autonoma de Buenos Aires,2540,9.5,79,
-530,Babel Apartments Recoleta,4064,8,286,
-531,FR Flats,6477,9.2,3,
-532,TH Bue Hotel,6921.5,8.4,477,
-533,Pyxis Hostel,1651,8.1,659,
-534,Caravan BA | Hostel Boutique,2857.5,9.7,726,
-535,Malala Hostel,1206.5,8.7,1369,
-536,Palermo Blue Home,1651,9.8,10,
-537,Excelente Moderno 2 amb pileta,2222.5,10,9,
-538,studio salguero palermo II,3429,9.8,4,
-539,Anexo Irún,1587.5,6.6,7,
-540,Kenton Palace Buenos Aires,7302.5,8.6,515,4
-541,BELGRANO RESIDENCIAL. Departamento cómodo. cálido. luminoso. excelente ubicación y medios de transporte,3810,10,4,
-542,Sevilla Home Hotel,1460.5,7.4,10,1
-543,Palermo Place I,3048,9.3,34,
-544,Hotel Solans Carlton,5016.5,8.6,768,4
-545,Hotel Posta Carretas,4064,8.1,921,4
-546,Cozy Soho,2794,8.1,13,
-547,Art Factory Palermo,1651,7.9,1408,
-548,Luna Palermo,2540,9.9,9,
-549,Recoleta Beautiful Apartment,2540,9.4,90,
-550,Retiro Apartment,4445,9.1,5,
-551,Howard Johnson Inn Palermo,6921.5,7.3,253,4
-552,Defensa 821 Bed and Breakfast,3429,8.5,216,
-553,My House Buenos Aires II,3683,8.6,75,
-554,Byblos Palermo Soho,3683,8.2,630,
-555,Homestay Buenos Aires,3111.5,9,137,
-556,AQ Tailored Suites,12763.5,9.3,1057,4
-557,Apart Hotel en San Telmo,4889.5,8.9,9,
-558,Hospedaje La Rana,1206.5,7.4,272,
-559,Diplomat Hotel,2095.5,7.3,747,2
-560,Palermo Chico apartment,2540,8.6,34,
-561,Sucre Suites,2921,8.9,303,
-562,474 Buenos Aires Hotel,9461.5,9.2,712,4
-563,Hotel Los Cedros,1270,7.1,292,1
-564,FAENA HOTEL,11557,7.9,7,5
-565,Corazón de Palermo Hollywood,2921,8.5,22,
-566,Esmeralda 853,4508.5,9.1,46,
-567,Rivadavia Apartment,5080,9.4,356,
-568,Duplex Cabildo,2286,8.4,45,
-569,Apart Hotel Shoshana,7620,9.6,176,
-570,Studio Obelisco,3111.5,9.2,28,
-571,Apart Hotel Buenos Aires,3175,7.7,89,
-572,Studio en Palermo. Relax y energía para tu estadía,2603.5,9.7,23,
-573,Hotel Ayamitre,2286,6.8,139,2
-574,Sissi Apart,4445,9,58,
-575,Esmeralda Studio,2857.5,8.6,15,
-576,BELGRANO. EXCELENTE UBICACION Y MEDIOS DE TRANSPORTE HACIA TODA LA CIUDAD. COMPARTIDO,3238.5,8.9,35,
-577,M&M San Telmo,4064,9.2,22,
-578,Juncal Apartamento,4127.5,7.9,21,
-579,Departamento Gascon,2984.5,9.3,63,
-580,Abasto Hotel,4191,7.3,569,4
-581,Beautiful apartment in Palermo. 2 blocks from subway,2159,9.3,42,
-582,Prodeo Hotel + Lounge,4953,8.5,191,4
-583,La Maison Hostel Boutique,1587.5,7.4,86,
-584,Exclusivo depto en Palermo Soho,5651.5,9.1,9,
-585,Callao Plaza Suites,2794,7.7,424,
-586,Principado Downtown,7112,8.5,1606,4
-587,Ricana Ba Center (ex Vista Sol Buenos Aires),3810,8.1,747,4
-588,Four Seasons Hotel Buenos Aires,63.5,9.4,134,5
-589,HI Recoleta,1587.5,7.4,148,
-590,Golf Tower Suites & Apartments,4445,6.6,586,3
-591,Apartment Castillo,2540,9.7,48,
-592,Apartamento Parque Lezama,2286,9.6,52,
-593,Purobaires Hotel Boutique,7556.5,8,329,4
-594,Grace's apartment,2476.5,8.7,13,
-595,Borges 1 Palermo Buenos Aires,5651.5,9.5,4,
-596,Apartamento en Recoleta. cómodo y funcional. WiFi,4953,9.4,7,
-597,Apartamento amplio. luminoso y tranquilo en Palermo. WiFi,6985,9.7,28,
-598,Enjoy Buenos Aires Palermo Hollywood,3492.5,9.1,10,
-599,Hotel Presidente Buenos Aires,3810,7.5,543,4
-600,Hotel Gran Sarmiento,1524,7.1,261,1
-601,Babel Alto,2857.5,8.7,230,
-602,Homely Flat. Great Location,1587.5,9.4,29,
-603,Hermoso departamento en Palermo excelente ubicación,4127.5,9.6,9,
-604,Trianon Residence Recoleta,7366,8.5,459,4
-605,Blank Hotel Recoleta,8953.5,8.9,816,4
-606,Melia Buenos Aires Hotel,9842.5,7.9,373,5
-607,CASA DEVOTO 5238,3429,9.7,18,
-608,Hotel Clasico,7747,8.6,665,4
-609,Palermo Suites Buenos Aires,7429.5,8.3,707,4
-610,Play Hostel Soho,2222.5,8.1,495,
-611,CasaCalma Hotel,14414.5,9.4,275,4
-612,Miravida Soho Hotel & Wine Bar,18034,9.1,171,
-613,River House Bed & Breakfast,4000.5,8.6,218,
-614,America Del Sur Hostel Buenos Aires,3111.5,8.7,851,
-615,Avellaneda Aparts & Suites,4508.5,8.7,78,
-616,Faena Hotel Buenos Aires,32956.5,8.8,247,5
-617,InterContinental Buenos Aires,18605.5,8.5,149,5
-618,Unique Studio in Palermo Hollywood,6286.5,9.6,4,
-619,VyR Buenos Aires Palermo,3810,7.3,77,
-620,Homelike,2857.5,8.9,102,
-621,Cedro Azul,2159,8,18,
-622,JFK Apartments,4762.5,9.1,144,
-623,Hotel Dolmen,5715,8.3,814,4
-624,Impecable monoambiente en Belgrano,5715,9.5,22,
-625,departamento,2857.5,9.5,67,
-626,Ultra Hotel Buenos Aires,6477,7.1,587,4
-627,Tower Rock Palermo Buenos Aires Soler,6985,9.2,21,
-628,Modern Apartment Rivas - Swimming Pool,3492.5,9,36,
-629,Tre Design Apartments,4762.5,7.6,281,
-630,Riobamba Street,5715,9.5,37,
-631,Luxury La Abadía,4445,9.6,69,
-632,Tango Cozy Estudio Luminoso WiFi,4127.5,9.8,113,
-633,Feir's Park Hotel,9271,8.3,531,5
-634,ISI Baires Rental Apart & Suites,3048,7.5,576,
-635,Studio Iq,3492.5,9.4,49,
-636,Apartamento en Belgrano Luminoso y Tranquilo. WIFI,3937,9.4,71,
-637,Excelente amplio y luminoso 2 ambientes en Recoleta,2159,9.6,11,
-638,Cristal Palace Hotel,3683,7.2,335,4
-639,Arrabal Porteño,3810,8.9,29,
-640,Piccaluga Apartments,3746.5,8.5,114,
-641,New Apartamento Dorrego C,4572,9.4,17,
-642,The House,9525,7.8,16,
-643,Esplendido con vista al Rio. Dos dormitorios en suite. Gym. Piscina. Seguridad,8572.5,9.7,7,
-644,Apartamento Palermo Soho Tango & WiFi,4826,9.8,60,
-645,Carsson Hotel Downtown Buenos Aires,4445,7.9,773,4
-646,Alto Palermo - Frente Parque Las Heras,2159,9.8,9,
-647,Deluxe Seniors,4445,8.4,100,
-648,Grace Home,2349.5,9.5,13,
-649,Roosevelt Suites,3111.5,7.9,11,
-650,Departamento Palermo cochera s c Visa Usa La Rural,2984.5,8.9,7,
-651,Howard Johnson Plaza Buenos Aires,5016.5,8.9,532,4
-652,Own Madero,8699.5,8.8,620,4
-653,Holy Hostel,2667,8,516,
-654,Savoy Hotel,9715.5,8.6,483,4
-655,1828 Smart Hotel Boutique,12446,8.8,208,5
-656,Consorcio Pasaje Gutierrez,4445,9.7,31,
-657,Hostel Positivo,1587.5,9.3,6,
-658,Hotel Master Suite Devoto,8763,8.7,40,
-659,Poetry Building Recoleta,11049,9.2,68,
-660,Hebe Suite,5397.5,9.4,20,
-661,Dazzler by Wyndham Buenos Aires San Martin,6286.5,7.9,684,4
-662,Argenta Suites Belgrano,8890,8.8,206,4
-663,Magnolia Hotel Boutique,10668,9.1,158,4
-664,En el corazón de Buenos Aires,4445,9.8,20,
-665,Hotel Dos Mundos,1841.5,6.8,30,
-666,Apartamento Viajero,3175,9.7,52,
-667,Suite Porteña,4254.5,8.5,11,
+fid;name;price;rating;reviews;stars
+1;Hotel Waldorf;2984.5;7.8;954;3
+2;Hostel Suites Florida;1968.5;7.7;3186;
+3;Hotel Reconquista Plaza;2730.5;7.5;3568;4
+4;Infinito Hotel;5143.5;8.1;755;3
+5;Recoleta Luxury Boutique Hotel;3746.5;8;1796;4
+6;Regal Pacific Puerto Madero;9842.5;8.5;446;5
+7;Hotel Bristol;2540;8.5;2963;4
+8;Tribeca Buenos Aires Apart;3111.5;8.1;1237;3
+9;Apart Grecia;2540;9.7;51;
+10;Nicaragua 6062 Palermo Hollywood;2794;7.4;6;
+11;River Hotel;2159;8;789;3
+12;Urbanica The Libertador Hotel;7302.5;8.5;455;4
+13;Hotel Aeroparque Inn & Suites;4064;7.5;1417;3
+14;Departamento con piscina. cochera y parrilla;4318;9.1;76;
+15;Espacio POP - Apartments;2730.5;7.2;152;3
+16;Luxury Loft Puerto Madero;4318;9.5;253;
+17;Dazzler by Wyndham Polo;11112.5;8.9;1813;4
+18;Centuria Hotel Buenos Aires;3746.5;8;1964;4
+19;2055 Boutique Hotel low Cost;2857.5;7.5;62;4
+20;Hotel Pacifico;1270;7.5;2342;2
+21;Hotel Avenida;2857.5;8.2;684;2
+22;Soho Loft BA;3175;9.4;36;
+23;Alvear Art Hotel;14986;9.1;584;5
+24;Duque Hotel Boutique & Spa;7175.5;9;677;4
+25;Dazzler by Wyndham Buenos Aires Maipu;5334;8.4;525;4
+26;Dazzler by Wyndham Buenos Aires Recoleta;8445.5;8;1701;4
+27;Suipacha Suites;3746.5;8.4;2188;3
+28;Catalinas Suites;2730.5;7.2;2324;3
+29;Ibis Buenos Aires Obelisco;5778.5;8.2;1883;3
+30;Mérit San Telmo;4191;8.5;3261;3
+31;Gran Hotel Ailen;3048;8.4;1325;3
+32;Ramada by Wyndham Buenos Aires Centro;5270.5;8.9;44;4
+33;Goya Hotel;2476.5;7.8;1633;3
+34;Hotel Facon Grande;4064;8.4;2436;3
+35;DEL900 Hostel Boutique;3810;8.3;1030;
+36;Hotel Lyon;3365.5;7.8;3062;3
+37;Hotel Alma De Buenos Aires;3111.5;7;1126;3
+38;Hotel Athos;1841.5;7.4;908;3
+39;Hotel Palermo;2794;8;1208;2
+40;The Loft Hotel;2222.5;7;412;
+41;Estudio PARAGUAY;3048;6.5;5;
+42;Hotel Plaza Roma;2857.5;7.5;1203;3
+43;Up Recoleta Hotel;4889.5;8.8;1759;3
+44;2055 Petit Hotels;2540;7.3;1154;3
+45;Hotel Cristoforo Colombo;4318;6.7;2641;4
+46;Hotel Mundial;3048;7.3;3044;2
+47;jackson soho;4254.5;8.7;52;
+48;Unique Palacio San Telmo;2857.5;7.9;3563;4
+49;America Plaza Hotel;3683;7.4;1126;3
+50;Depto monoambiente en Recoleta;2540;8.1;9;
+51;Milhouse Hostel Avenue;3810;8.6;1613;
+52;Exe Hotel Colón;4254.5;7;7684;4
+53;Recoleta spot;2159;9.2;12;
+54;Palermo;3048;8.9;79;
+55;Hotel Intersur San Telmo;3619.5;8.7;530;3
+56;Gran Hotel Vedra;2794;8.2;587;2
+57;A Hotel;3365.5;7.9;1245;3
+58;La Morada;1206.5;6.4;261;
+59;Recoleta Beautiful Apartment II;3175;9.9;14;
+60;Hotel Splendid;1968.5;6.8;820;3
+61;Hotel Alcazar;2540;7.6;1609;1
+62;Monita Hostels;3111.5;8.6;321;
+63;Malevo Murana Hostel;2286;9;1066;
+64;Hotel Provincial del Once;825.5;5.1;176;
+65;King's Hotel;2794;7.3;879;2
+66;Hotel Gran Vía;1905;7.3;965;1
+67;Arribo Buenos Aires Hotel Boutique;2476.5;8.2;793;3
+68;Viasui Hotel;3175;8.1;943;3
+69;Circus Hostel;2159;8.5;1379;
+70;Hotel Tres Sargentos;2667;7.6;727;2
+71;Howard Johnson Plaza Florida;6350;8.2;1536;4
+72;Bohemia Buenos Aires Hotel;4254.5;7.9;748;3
+73;Telmho Hotel Boutique;5016.5;8.2;414;3
+74;Patios de Recoleta;1333.5;7.3;905;1
+75;Hotel Reconquista Garden;3302;7.8;3017;4
+76;Art Factory On Tap;4572;8.1;1794;
+77;Palermo Soho Square;6223;9.2;262;
+78;Hotel 8 de Octubre;4635.5;8.1;1213;3
+79;Gran Hotel Argentino;3365.5;7.6;2867;3
+80;Hotel San Antonio;2984.5;8.1;85;3
+81;O-Baires;4508.5;7.7;2146;3
+82;Épico Recoleta Hotel;4889.5;7.3;1506;3
+83;Patios de San Telmo;7620;8.5;1076;4
+84;VG Recoleta;4254.5;9.7;6;
+85;Mayflower Suites;2984.5;7.4;1540;3
+86;Viejo Telmo;1397;6.4;971;2
+87;O2 Hotel Buenos Aires;4254.5;8;887;3
+88;San Remo City Hotel;2984.5;7.4;2429;3
+89;Le Cinque Lusso Recoleta;4889.5;7;1156;4
+90;Unique Art Madero;5270.5;7;3783;4
+91;Europlaza Hotel & Suites;4064;8.1;1449;3
+92;Hotel Carrara;1968.5;8;573;2
+93;Hotel Victory;2667;6.9;603;3
+94;Blanro Hotel;2476.5;7.7;506;2
+95;Gran Hotel Atlantic;1651;7.9;1816;2
+96;Hotel Central;1079.5;5.3;386;2
+97;Greenwich Buenos Aires B&B;3238.5;8.7;660;
+98;Hotel Centro Naval;3238.5;8;448;3
+99;Hotel Nontue Abasto Buenos Aires;4000.5;7.2;1468;3
+100;SATO HOSTEL;2413;8.3;850;
+101;Art Factory Soho;3302;7.7;1377;
+102;Castex y Salguero Palermo Aeroparque Newbery;;8.5;62;
+103;Hotel KEY´S;1587.5;8.2;113;1
+104;Hotel O'Rei;1016;6.3;882;1
+105;BA Tango Apartments Paso;;8.2;8;
+106;Hotel Luey;;7.6;1678;3
+107;Duomi Plaza Hotel;3746.5;8.1;2221;3
+108;Intersur Suites;4000.5;8.8;1133;3
+109;Che Argentina Hostel Suites;1524;7.7;363;
+110;Hotel Boutique Bonito Buenos Aires;;8.3;420;3
+111;Charcas Cozy Apartment;;8.3;35;
+112;Residencia Esplendida;;9;11;
+113;Encantador departamento en Centro Histórico;;9.6;9;
+114;Hotel First Palermo;4762.5;7.4;749;3
+115;Hotel Isis;1016;6.2;191;2
+116;Gran Hotel Oriental;1143;6.9;939;2
+117;Astoria Hotel;2476.5;7.7;605;2
+118;Hotel Nuevo Camino;1524;8.1;769;1
+119;Novel Hotel;2540;6.5;681;2
+120;Hotel Costa Rica;3365.5;8.1;1146;3
+121;Le B Club Boutique & Terrasse;2984.5;8;2159;4
+122;Palermo Living Unique Rooms;3111.5;8.4;312;3
+123;Mordomo;2032;7.5;318;
+124;Sarmiento Palace Hotel;3492.5;7.9;870;3
+125;Studio Av Santa Fe;;8.4;21;
+126;Ventana al Obelisco (MIcrocentro);;9.2;26;
+127;Hotel Bys Palermo;5905.5;8.5;1598;4
+128;Real Splendid Hotel;1714.5;7.1;485;2
+129;Gaurez;3175;9.9;7;
+130;Alma del Plata Buenos Aires Hotel & Apart;2095.5;7.7;517;3
+131;Classic 2 BR in Recoleta with 300Mb Internet!;8890;9.5;11;
+132;Echeverria Petit;2540;8.9;34;
+133;Apart Hotel Comra;2730.5;8.3;413;
+134;Hotel Pulitzer Buenos Aires;7747;8.4;1300;4
+135;Hub Porteño;26289;9.2;62;5
+136;Viamonte Buenos Aires Apart;3111.5;8.6;2208;3
+137;Babel Belgrano;3365.5;8.4;226;
+138;Eugene City;3238.5;9.6;67;
+139;Unique Executive Central;2857.5;7.9;2234;4
+140;Gorriti Suites & Studios;2540;8.7;11;
+141;Hotel Petit Benitos;1270;5.8;210;
+142;Ilum Experience Home;9080.5;9.4;606;4
+143;Anchorena Plaza Apartments;3619.5;7.2;93;3
+144;Baires Homes - Belgrano;4762.5;9.2;86;
+145;Gran Hotel Buenos Aires;2667;7.3;2406;4
+146;Palermo Soho Buenos Aires Apartment;9080.5;6.8;15;
+147;Casa Umare;9144;9.7;17;4
+148;Hotel De La Rue;1905;5.2;236;2
+149;Departamento Cordoba;1587.5;9;18;
+150;Bar de Fondo Suites;2603.5;8.7;104;
+151;Suites Congreso;3175;7.1;23;
+152;Palermo Soho Espectacular! 6 personas;8255;7.8;3;
+153;Hotel Parlamento;1778;7.7;373;3
+154;INES;2857.5;9.8;13;
+155;Studio en Villa Urquiza. cerquita de CEMIC Saavedra;2857.5;9.8;40;
+156;Soho Point Central;3937;9;72;3
+157;Be Acht Studio;3175;9.8;11;
+158;Espacia Suites;6223;8.7;159;4
+159;Recoleta Flats;2984.5;8.1;692;
+160;Palermo Apartments;2476.5;8.7;455;
+161;Nuñez Suites;3492.5;7;250;
+162;French 3022;2476.5;8.3;19;
+163;Hotel Central Cordoba;1651;6.2;755;2
+164;Hotel Impala;3746.5;7.4;646;3
+165;Sabatico Travelers Hostel & Guesthouse;1714.5;8.2;283;
+166;Hotel Bahia;1016;7.3;250;
+167;BA STOP Hostel;1587.5;8.3;747;
+168;Hostel Colonial;1651;8.1;634;
+169;Cruce´s Hotel Boutique;5715;8.8;391;4
+170;Boutique Room - w/Private bath;4127.5;9.5;19;
+171;Babel Soho;3746.5;8.7;363;
+172;Luxury Apartment Tagle;4953;9.6;23;
+173;NH Collection Buenos Aires Crillón;5397.5;8.3;812;4
+174;Hotel Manzanares Plaza;1841.5;6.5;30;
+175;Hotel Tango Facultad;2667;6.9;72;3
+176;Hotel Cuatro Reyes;1905;6.9;524;4
+177;248 Finisterra;5080;8.6;352;4
+178;CH Madero Urbano Suites;6921.5;8.2;1033;4
+179;NH Buenos Aires Florida;6223;8.2;640;4
+180;Alfa Hotel;2222.5;8;520;1
+181;Elegante y fino departamento en Palermo chico;6540.5;9.4;8;
+182;Baires Alquileres;2857.5;8.4;129;
+183;Bonjour My Vera;3238.5;9.1;79;
+184;Fierro Hotel Buenos Aires;14160.5;9.4;236;4
+185;Sileo Hotel;7556.5;8.6;607;4
+186;Bue Apartments;3111.5;8.3;620;
+187;BA Sohotel;9461.5;7.9;415;4
+188;Mundo vita;3746.5;8.6;35;
+189;Nomad Apartments;4127.5;8.6;5;
+190;Departamento Del Botanico;3175;8.3;33;
+191;Hotel Club Frances;13335;8.7;139;5
+192;Belles Suites;5080;7.7;89;
+193;Medrano Kind;5080;9.4;66;
+194;La Barca Hotel;1143;8;287;
+195;Apartamento en Las Cañitas. amplio. luminoso. balcón y WiFi;2857.5;10;6;
+196;Cañitas Studio;1905;7.2;42;
+197;Departamento en Apart hotel 2 Ambientes. Excelente ubicacion. Microcentro;2540;9.3;5;
+198;Reina Madre Hostel;2159;8.5;561;
+199;CASA DEVOTO 3631 1-B;3048;9.8;14;
+200;Departamento Aguero 2281;2476.5;7.9;25;
+201;Arenales Suites;3810;8;904;
+202;Hotel Condor;1714.5;6.2;215;
+203;Daniela en Las Cañitas;2286;9.9;8;
+204;EC Apartments;4572;9.4;15;
+205;hotel egipto;1714.5;5.9;7;
+206;LikeHome Palermo D1;4762.5;9.4;31;
+207;La Casa de los Pajaros;2921;8.1;4;
+208;Loft click;1397;8.6;3;
+209;Graduado;1143;8.5;9;
+210;Petit El Vitraux;3492.5;9;112;
+211;BUENOS AIRES EXPERIENCE - Av Corrientes - Obelisco;2540;8.7;8;
+212;Top Rentals Palermo;5461;9.7;30;
+213;Alvear Palace Hotel - Leading Hotels of the World;32385;9.2;524;5
+214;Bauen Hotel;2667;7.4;996;2
+215;Vitrum Hotel;10160;8.6;306;4
+216;Luxury Residence;9080.5;9.4;18;
+217;Tunez Suites;3111.5;8;8;
+218;Urban 011;2159;6.9;8;
+219;Casa de Familia - Solo Para Mujeres *Woman ONLY*;1587.5;8.7;61;
+220;Libertador;3810;8.5;5;
+221;Algodon Mansion;27749.5;9;84;5
+222;Luminoso y amplio departamento 2 ambientes en Palermo Hollywood;3619.5;9.9;18;
+223;Art Suites & Gallery;6858;8.9;518;4
+224;Eco House;1778;8.5;65;
+225;La Bamba Student Hostel;1524;8.5;98;
+226;06 Central Hostel Buenos Aires;1079.5;8;528;
+227;Balboa b&b;1968.5;9.6;5;
+228;Vi Luz y Entre Hostel;889;6.6;21;
+229;Rayuela Hostel;1524;10;3;
+230;HOTEL REGIS;3429;7.3;45;3
+231;Loft en Villa Crespo a Cuadras del nuevo estadio Arenas y de Palermo;3175;8.4;4;
+232;NH Buenos Aires Latino;6159.5;8.6;934;4
+233;Hotel Napoleón;2222.5;7.3;273;3
+234;Villa crespo;1270;7.7;10;
+235;Hotel Internacional;2984.5;8;1220;2
+236;Hotel Principe;3365.5;8.2;80;2
+237;Vinilo Apartment Recoleta;2857.5;9.9;4;
+238;Republica Palermo;5080;8;325;
+239;Le Batiment Apartmentos;2349.5;9;1342;
+240;Libertador Hotel;11938;8;876;5
+241;Hotel Rey;2095.5;7.9;639;3
+242;Palermo Hollywood;1460.5;7.8;129;
+243;Cozy Apartment in Palermo;2413;8.9;75;
+244;Alpino Hotel;4127.5;7.4;1233;3
+245;Hotel Reina;2413;7.5;1102;2
+246;Holiday Inn Express Puerto Madero;11430;8.5;590;4
+247;Campamentos Urbanos;2095.5;9.1;102;
+248;Hotel Varela;1333.5;7.3;218;
+249;Loft Av Cordoba;1524;7.5;44;
+250;Petit amour Alto Palermo;5588;9.1;40;
+251;Hotel Grand Brizo Buenos Aires;8318.5;9.3;1502;4
+252;Hotel La Piedad;1524;8.3;308;
+253;ABADIA PALERMO;2349.5;8.6;189;
+254;Glorious Studio Palermo Hollywood;4254.5;8.3;16;
+255;Back in BA hostel;1651;7.9;298;
+256;Icaro Suites;6540.5;8.7;1140;4
+257;Studio Recoleta. Gran Ubicación;5588;8.4;14;
+258;NH Collection Buenos Aires Lancaster;10350.5;8.8;416;4
+259;Yerbal 721;2540;8.5;31;
+260;Av. Corrientes 820;3429;8.5;98;
+261;BULNES Cozy Apartment;3048;9.3;15;
+262;Origen;2032;7.6;30;
+263;Hotel Cosme;1333.5;6.9;86;2
+264;Hotel La Perla;3238.5;7.7;673;3
+265;Departamentos alquiler temporario Balvanera;3048;8.1;52;
+266;Charming SanTelmo Location;3175;9.7;9;
+267;Panamericano Buenos Aires;13779.5;8.4;1366;5
+268;Grand King Hotel;3556;7.9;1575;4
+269;The Luxury at 1530 by Luxury Apartments Buenos Aires;4381.5;8.7;11;
+270;Tucuman Palace Hotel;2603.5;7.2;1318;2
+271;Paraguay 716 We sleep;4254.5;8.9;407;
+272;Babel Apartments Palermo I;4826;7.5;243;
+273;Soho Point Palermo;4000.5;8.2;423;
+274;2415 Palermo;3048;8.9;246;
+275;ARC Recoleta Boutique Hotel & Spa;10287;8.7;1203;4
+276;Estudio a 2 cuadras de Av Santa Fe;2667;8.4;42;
+277;Leonardo Da Vinci Residence;2413;8.1;599;
+278;Cuba Suites;4318;8.3;19;
+279;Hotel Intersur Recoleta;8826.5;8.7;846;4
+280;Hotel Metropolitano Supara;4127.5;9;462;4
+281;Rosedal Suite;3492.5;7.7;815;
+282;HOTEL PARIS;2032;6.5;17;
+283;Hotel Chile;1905;7.1;376;2
+284;Hotel Colonial;2476.5;6.5;72;3
+285;NH Buenos Aires 9 de Julio;7239;8.6;598;4
+286;Departamento Moderno proximo a Avenida Corrientes y Obelisco;2921;7.8;28;
+287;Lafayette Hotel;5715;8.3;879;4
+288;Ker Belgrano Apart & Spa;6985;8;771;4
+289;Hotel Irun;3873.5;7.9;142;3
+290;Atempo Design Hotel;9842.5;8.2;236;4
+291;Tiana Hotel Boutique;4889.5;7.9;398;4
+292;Innayres Suites;3556;8.9;192;
+293;Sissi Haz Hotel;5778.5;9.1;595;3
+294;Ker Historic San Telmo;6159.5;9.3;57;4
+295;Monoambiente en el centro de Recoleta;3492.5;9.1;24;
+296;Apartment Cerviño Buenos Aires;3429;9.4;128;
+297;Scala Hotel Buenos Aires;5207;8.8;791;4
+298;Ayacucho Palace Hotel;3429;7.8;742;2
+299;Departamento en Buenos Aires;2222.5;8.6;78;
+300;HTL 9 de Julio BsAs;2921;8.3;1646;4
+301;Hotel Quito;1778;8.4;443;
+302;Hostel Carlos Gardel;2095.5;8.5;319;
+303;Ideal social hostel;1587.5;8.6;612;
+304;Babel Studios;3111.5;7.8;1139;
+305;Rochester Hotel M;3111.5;7.8;293;4
+306;Art Factory Beer Garden;2095.5;7.3;1053;
+307;Art Factory San Telmo;1524;7.7;1352;
+308;San Telmo Luxury Suites;6921.5;8.3;287;4
+309;Be Hollywood!;9652;8.3;276;4
+310;Corrientes Petit;3048;8.2;107;
+311;Charcas Hostel;1651;7.6;427;
+312;Alma Bohemia Hostel;1079.5;6.9;665;
+313;Hotel Parada;1524;7.8;740;1
+314;Kalahat;1587.5;8.9;231;
+315;Apart Corrientes 767;1651;6.5;696;
+316;Juramento de Lealtad Townhouse Hotel;4635.5;7.3;306;3
+317;5411 Soho Hotel;4508.5;8.1;484;3
+318;Apartamentos Comodoro;3429;8.2;5;
+319;Tower Rock Palermo Buenos Aires;6159.5;8;13;
+320;Hotel Pedraza;3683;8.4;181;1
+321;Own Express Recoleta;6096;8;1132;4
+322;Howard Johnson Hotel 9 de Julio Avenue;5080;7.9;543;4
+323;Hermoso departamento en Nuñez. Bs As. Argentina. 4 personas.;5016.5;8.3;7;
+324;Hotel Esperia;1905;7.3;223;1
+325;San Remo Apartments;2603.5;8;209;
+326;Hotel San Carlos;1714.5;6.8;363;2
+327;Departamento sobre Av. Corrientes al 800;2476.5;9;15;
+328;Meridiano Hostel Boutique;3492.5;8.8;559;
+329;Portal del Sur Hostel;2159;8.2;447;
+330;Aráoz 2926;2794;9;28;
+331;Hotel Minerva;952.5;7.3;179;1
+332;Hostelmo Hotel;1206.5;7.1;372;
+333;Cómodo y luminoso departamento estilo náutico;2159;9.7;8;
+334;Bliss Hostel;2857.5;7.6;170;
+335;Rugantino Hotel Boutique;6540.5;8.2;378;3
+336;Buenos Días Buenos Aires;3302;8.4;162;
+337;Two Hotel Buenos Aires;6223;8.1;1051;3
+338;Hotel Casona La Boheme;1651;8.6;239;
+339;Bisonte Libertad;4699;7.7;1484;4
+340;CH Le Petit Suites;3810;8.1;1050;4
+341;Corazón de Palermo Soho;2222.5;9.1;67;
+342;Rochester Hotel Concept;3429;7.4;292;3
+343;Apartur Buenos Aires;3048;7.6;275;
+344;Village Garden Apart Hotel;3429;7.5;162;3
+345;Tacha;3492.5;8.4;111;
+346;Hotel Etoile;7175.5;7.9;2485;4
+347;Hostel Estoril;1905;8.4;826;
+348;BA Hollywood Apartments;4889.5;7.6;223;
+349;Studios Montevideo;2540;9.3;159;
+350;Master Hostel Borges;1905;8.6;349;
+351;Gran Hotel Hispano;2603.5;8.2;795;2
+352;Callao 1234;4064;8.2;83;
+353;Hotel Piamonte;1397;8.2;15;2
+354;Palermo Soho Hostel;1651;5.8;671;
+355;Confortable Apartment;2984.5;8.4;10;
+356;Hotel Bel Air;6032.5;8.2;563;3
+357;Hotel & Hostel Chipre;1016;6.2;278;1
+358;Hotel UTHGRA de las Luces;2794;7.8;519;3
+359;Hotel UOM Buenos Aires;5207;9.2;804;3
+360;Metropolitan Highline;3619.5;7.9;54;
+361;Ker Urquiza Hotel & Suites;3873.5;7.7;1227;3
+362;Globales Republica;3937;7.7;4011;4
+363;Benita Hostel;3175;8.8;189;
+364;Hotel Siena;1841.5;8;144;1
+365;Recoleta Mediterráneo;4445;9;31;
+366;Estacion Palermo;4572;7.8;13;
+367;Bulnes Eco Suites;7239;9;1294;4
+368;Columbia Palace Hotel;4508.5;7.5;883;3
+369;Constitución Palace Hotel;5207;7.2;81;3
+370;Petit Recoleta Suites;2286;6.9;911;
+371;Apart San Cristobal;2540;9.4;60;
+372;Esplendor by Wyndham Buenos Aires;5969;8;335;4
+373;Syrah Suites;3492.5;8.6;751;
+374;Best View Puerto Madero;6858;9;57;
+375;Serena Hotel Buenos Aires;12890.5;8.6;328;5
+376;New & Light in Belgrano;5524.5;8.7;3;
+377;Hostel Tango Argentina;1397;6.2;270;
+378;NH Collection Buenos Aires Centro Histórico;11620.5;8.8;636;5
+379;Loft para 4 personas;4699;8.7;27;
+380;Faena Hotel - Master Suite - Residence;31051.5;8.8;20;
+381;Departamento centro vista al obelisco;3238.5;9.4;51;
+382;Buenos Aires House;1524;7;6;
+383;Gran Hotel España;1460.5;7.6;507;
+384;Art Suites;4889.5;8.4;553;4
+385;Emperador Hotel Buenos Aires;17589.5;8.7;182;5
+386;Imperial Park Hotel;4572;7.4;132;4
+387;Nuss Buenos Aires Soho;13843;8.7;380;5
+388;Departamento Tucuman y 25 de Mayo;5207;7.8;6;
+389;El Candil de San Telmo;3111.5;7.5;85;3
+390;Uno Buenos Aires Suites;4953;8.2;887;4
+391;Telmotango Hotel Suites;1524;7.2;703;
+392;BA Sucre Apart;3556;8.5;39;
+393;Hotel Aries Palermo;2032;7.6;366;1
+394;Master Hostel;1778;8.5;1220;
+395;Apart San Diego Recoleta;4508.5;8.2;888;3
+396;Embajador Hotel;4191;7.6;554;3
+397;Sunlight Recoleta Suites & Apartments;4064;7.9;172;
+398;Hotel Omega;2286;7.7;217;1
+399;Casa Chic Palermo Soho;6413.5;8.2;294;
+400;Park Silver Obelisco;4508.5;8.5;1964;4
+401;Magia y poesía;1905;8.4;4;
+402;Hotel Viedma;1079.5;7.8;17;
+403;Almagro Lujoso;2667;7.2;15;
+404;Amelia Apartment;2667;9.5;26;
+405;Montañeses petit;4064;9.1;54;
+406;Roosevelt;1714.5;8.2;259;
+407;Tanguero Hotel Boutique Antique;7048.5;8.9;273;4
+408;Hotel Palermitano by DON;10541;8.1;186;4
+409;Lemon Suites;5842;8.9;754;
+410;Key Hotels San Telmo;5270.5;8.1;143;4
+411;Garden House Hostel;1524;7.8;135;
+412;Shvili;2603.5;9.3;46;
+413;Home Hotel;13843;9;96;4
+414;LOPEZ Hostel & Suites;2794;8.8;358;
+415;Studio Esmeralda;3238.5;9.9;12;
+416;Mansion Vitraux Boutique Hotel;9588.5;8.7;461;
+417;Departamento Palermo Soho 2;3492.5;8.7;45;
+418;Gardel Flats;3365.5;8;71;
+419;Corrientes y Esmeralda;3619.5;8.5;49;
+420;Tango de Mayo Hotel;6477;9;2198;4
+421;Moderno Departamento Centrico 3P;2984.5;9.3;5;
+422;Dg Apart Obelisco;4000.5;9.4;24;
+423;Depto. Baires;4127.5;9;37;
+424;Cleopatra;3175;9.6;49;
+425;Top Rentals;7683.5;8.5;465;
+426;ARC Callao Studios & Suites;4127.5;8.7;754;
+427;Cyan Recoleta Hotel;7429.5;8.3;669;4
+428;Bosques de Palermo Apartment;2921;9.7;75;
+429;Anchorena Rent;3175;8.9;36;
+430;Lennox Buenos Aires;5842;8;615;4
+431;Mine Hotel;15240;9.3;306;4
+432;Regente Palace Hotel;4572;7.8;760;4
+433;Mio Buenos Aires;15875;8.9;330;5
+434;HR Luxor Hotel Buenos Aires;5270.5;7.9;701;4
+435;Edificio Bellini Esmeralda;6032.5;9.1;191;
+436;562 Nogaro;6096;7.8;702;4
+437;Own Grand Palermo Soho;11874.5;8.3;758;4
+438;Park Tower. A Luxury Collection Hotel. Buenos Aires;22987;9.3;48;5
+439;B&B Polo;6350;9.1;35;
+440;Uman;2540;8;15;
+441;Cyan Américas Towers Hotel;6858;8.1;747;4
+442;Awwa Suites & Spa;8953.5;8.1;670;4
+443;La Casona del Alma;1968.5;8.4;335;
+444;Top Rentals Libertador;8318.5;8.9;23;
+445;Sinclair 3044;3048;9.8;39;
+446;Premium Studio Palermo Soho;5651.5;8.9;6;
+447;Hostel Estoril 3°;2032;8.4;993;
+448;Destino Real Hotel;2794;7.3;99;3
+449;Habitación privada en Casa Cabrera;2286;8.9;28;
+450;Vacances San Telmo;5207;8.9;299;
+451;Libertador Pettit 2;4254.5;9.4;29;
+452;Urbanica The Suites Hotel;10033;8.1;173;4
+453;Guest House La Boca B&B;2540;9;41;
+454;Calle Larrea 1375 Departamento;5143.5;9.8;5;
+455;Apartamento Calle Corrientes;2540;8.5;15;
+456;Hostel Soleil;1270;7.1;186;
+457;Piran Loft;2540;9;25;
+458;Beautiful and bright apartment in Palermo;3873.5;9.3;17;
+459;Via Arriba B&B;3111.5;9.6;133;
+460;Hotel ATEPSA;1968.5;8.5;429;2
+461;Sheraton Buenos Aires Hotel & Convention Center;17589.5;7.8;578;5
+462;City Madero Buenos Aires;6286.5;9.2;10;
+463;Gran Hotel Libertad;1905;7.9;797;2
+464;Ker Recoleta Hotel & Spa;4635.5;7.8;2849;4
+465;Hostel Downtownmate;952.5;6.4;368;
+466;Flaat Recoleta Plaza;4381.5;7.8;248;
+467;Design cE - Hotel de Diseño;7683.5;8.5;263;4
+468;Mirabasto Rooms;1397;8.7;20;
+469;Pampa Plaza Hotel;10350.5;7.1;204;4
+470;Laprida Suites;5016.5;7.8;643;
+471;HISTORICO Bs As - Departamento a NUEVO!!!;4953;9.4;6;
+472;NH Buenos Aires Tango;9080.5;8.5;709;4
+473;Departamento en Palermo Soho;3873.5;8.6;15;
+474;STUDIO 2 Belgrano;5715;9.3;6;
+475;Comodo Depto Av Cordoba;3873.5;8.2;31;
+476;Abode Buenos Aires;8890;9.6;21;
+477;4 Aparts en el mismo edificio. excelente ubicación;5270.5;9.4;11;
+478;Luco B&B;2921;7;116;
+479;Mate de luna;1905;7.9;16;
+480;Amusing Apartment Recoleta;2984.5;8.7;71;
+481;Hotel del Prado;2667;6.6;72;
+482;Apart Independencia Luz y Fuerza Patagonia;2730.5;8.6;136;
+483;Hotel Sheltown;4127.5;6.9;369;4
+484;Fran Apartment Palermo Soho;3111.5;7.8;30;
+485;Hotel Boutique Raco De Buenos Aires;6540.5;8.3;75;4
+486;Arenales Apart Hotel;4254.5;7;31;
+487;La Cascada Townhouse Hotel;2984.5;7.2;131;2
+488;Hotel San Martin;2286;7.8;80;
+489;Dallas;1905;7.9;39;
+490;COZY APARTMENT SANTA FE;2857.5;8;27;
+491;Loft Palermo Soho I;7112;9.7;9;
+492;Petit Lacroze;5080;9.2;10;
+493;Hotel Plaza Garay;952.5;5.7;566;1
+494;Feels Like Home/ Como En Casa;3683;9.3;10;
+495;Florida Apartment;3873.5;9.3;24;
+496;PRETTY. EXCELLENT UBICATION/OBELISK 5 STARS!!!;5270.5;9.1;9;
+497;Palermo Viejo Bed & Breakfast;4254.5;8.9;292;
+498;Casa San Telmo 3100;4381.5;7.8;5;
+499;Sures Belgrano Suites;5207;7.7;181;3
+500;Soho Point;6985;8.8;215;
+501;Sagardi Loft Ostería San Telmo;7810.5;8.7;116;
+502;Palermo Beautiful Studio Apartment;4762.5;9.6;38;
+503;Apart Dorrego;2857.5;9.4;33;4
+504;Tritone Hotel;4000.5;8;1110;3
+505;ARC Abasto Studios;3810;9.2;299;
+506;Buenos Aires Inn Apart y Hotel;2857.5;7.4;1052;3
+507;Let Sun Hotel Boutique;6667.5;8.5;492;
+508;Cañitas Home;2095.5;4.4;3;
+509;San Carlos Hotel;1841.5;8.9;651;1
+510;Palermo Hollywood Studio;4635.5;9.7;13;
+511;CASA DEVOTO 3631 1º C;2921;9.7;5;
+512;Tango Cozy Cuba;9842.5;9.5;12;
+513;Apassionata Tango Hotel;2476.5;8.6;60;
+514;Hotel Americano;2603.5;7.6;376;2
+515;Sojo Apart Hotel;2540;6.4;426;3
+516;IDEAL CENTER;1714.5;8.5;64;
+517;Italia;2095.5;6.4;9;
+518;Che Juan Hostel BA;2095.5;9.7;508;
+519;Apartamentos Rent In Buenos Aires;4318;8.4;25;
+520;Feliz Haus Guesthouse;444.5;8.1;424;
+521;Loi Suites Esmeralda;8318.5;8.3;773;4
+522;Granados Hostel;889;7.8;1024;
+523;Studio en Palermo Soho;6858;9.4;81;
+524;ChillHouse;6350;8.8;113;
+525;Voyage Recoleta Hostel;1206.5;7.9;341;
+526;Mayla Apartments;5969;8.7;382;
+527;Play Hostel Arcos;1841.5;7.6;676;
+528;Puerto Limon Hostel;1587.5;8.3;1188;
+529;Departamento temporal Ciudad Autonoma de Buenos Aires;2540;9.5;79;
+530;Babel Apartments Recoleta;4064;8;286;
+531;FR Flats;6477;9.2;3;
+532;TH Bue Hotel;6921.5;8.4;477;
+533;Pyxis Hostel;1651;8.1;659;
+534;Caravan BA | Hostel Boutique;2857.5;9.7;726;
+535;Malala Hostel;1206.5;8.7;1369;
+536;Palermo Blue Home;1651;9.8;10;
+537;Excelente Moderno 2 amb pileta;2222.5;10;9;
+538;studio salguero palermo II;3429;9.8;4;
+539;Anexo Irún;1587.5;6.6;7;
+540;Kenton Palace Buenos Aires;7302.5;8.6;515;4
+541;BELGRANO RESIDENCIAL. Departamento cómodo. cálido. luminoso. excelente ubicación y medios de transporte;3810;10;4;
+542;Sevilla Home Hotel;1460.5;7.4;10;1
+543;Palermo Place I;3048;9.3;34;
+544;Hotel Solans Carlton;5016.5;8.6;768;4
+545;Hotel Posta Carretas;4064;8.1;921;4
+546;Cozy Soho;2794;8.1;13;
+547;Art Factory Palermo;1651;7.9;1408;
+548;Luna Palermo;2540;9.9;9;
+549;Recoleta Beautiful Apartment;2540;9.4;90;
+550;Retiro Apartment;4445;9.1;5;
+551;Howard Johnson Inn Palermo;6921.5;7.3;253;4
+552;Defensa 821 Bed and Breakfast;3429;8.5;216;
+553;My House Buenos Aires II;3683;8.6;75;
+554;Byblos Palermo Soho;3683;8.2;630;
+555;Homestay Buenos Aires;3111.5;9;137;
+556;AQ Tailored Suites;12763.5;9.3;1057;4
+557;Apart Hotel en San Telmo;4889.5;8.9;9;
+558;Hospedaje La Rana;1206.5;7.4;272;
+559;Diplomat Hotel;2095.5;7.3;747;2
+560;Palermo Chico apartment;2540;8.6;34;
+561;Sucre Suites;2921;8.9;303;
+562;474 Buenos Aires Hotel;9461.5;9.2;712;4
+563;Hotel Los Cedros;1270;7.1;292;1
+564;FAENA HOTEL;11557;7.9;7;5
+565;Corazón de Palermo Hollywood;2921;8.5;22;
+566;Esmeralda 853;4508.5;9.1;46;
+567;Rivadavia Apartment;5080;9.4;356;
+568;Duplex Cabildo;2286;8.4;45;
+569;Apart Hotel Shoshana;7620;9.6;176;
+570;Studio Obelisco;3111.5;9.2;28;
+571;Apart Hotel Buenos Aires;3175;7.7;89;
+572;Studio en Palermo. Relax y energía para tu estadía;2603.5;9.7;23;
+573;Hotel Ayamitre;2286;6.8;139;2
+574;Sissi Apart;4445;9;58;
+575;Esmeralda Studio;2857.5;8.6;15;
+576;BELGRANO. EXCELENTE UBICACION Y MEDIOS DE TRANSPORTE HACIA TODA LA CIUDAD. COMPARTIDO;3238.5;8.9;35;
+577;M&M San Telmo;4064;9.2;22;
+578;Juncal Apartamento;4127.5;7.9;21;
+579;Departamento Gascon;2984.5;9.3;63;
+580;Abasto Hotel;4191;7.3;569;4
+581;Beautiful apartment in Palermo. 2 blocks from subway;2159;9.3;42;
+582;Prodeo Hotel + Lounge;4953;8.5;191;4
+583;La Maison Hostel Boutique;1587.5;7.4;86;
+584;Exclusivo depto en Palermo Soho;5651.5;9.1;9;
+585;Callao Plaza Suites;2794;7.7;424;
+586;Principado Downtown;7112;8.5;1606;4
+587;Ricana Ba Center (ex Vista Sol Buenos Aires);3810;8.1;747;4
+588;Four Seasons Hotel Buenos Aires;63.5;9.4;134;5
+589;HI Recoleta;1587.5;7.4;148;
+590;Golf Tower Suites & Apartments;4445;6.6;586;3
+591;Apartment Castillo;2540;9.7;48;
+592;Apartamento Parque Lezama;2286;9.6;52;
+593;Purobaires Hotel Boutique;7556.5;8;329;4
+594;Grace's apartment;2476.5;8.7;13;
+595;Borges 1 Palermo Buenos Aires;5651.5;9.5;4;
+596;Apartamento en Recoleta. cómodo y funcional. WiFi;4953;9.4;7;
+597;Apartamento amplio. luminoso y tranquilo en Palermo. WiFi;6985;9.7;28;
+598;Enjoy Buenos Aires Palermo Hollywood;3492.5;9.1;10;
+599;Hotel Presidente Buenos Aires;3810;7.5;543;4
+600;Hotel Gran Sarmiento;1524;7.1;261;1
+601;Babel Alto;2857.5;8.7;230;
+602;Homely Flat. Great Location;1587.5;9.4;29;
+603;Hermoso departamento en Palermo excelente ubicación;4127.5;9.6;9;
+604;Trianon Residence Recoleta;7366;8.5;459;4
+605;Blank Hotel Recoleta;8953.5;8.9;816;4
+606;Melia Buenos Aires Hotel;9842.5;7.9;373;5
+607;CASA DEVOTO 5238;3429;9.7;18;
+608;Hotel Clasico;7747;8.6;665;4
+609;Palermo Suites Buenos Aires;7429.5;8.3;707;4
+610;Play Hostel Soho;2222.5;8.1;495;
+611;CasaCalma Hotel;14414.5;9.4;275;4
+612;Miravida Soho Hotel & Wine Bar;18034;9.1;171;
+613;River House Bed & Breakfast;4000.5;8.6;218;
+614;America Del Sur Hostel Buenos Aires;3111.5;8.7;851;
+615;Avellaneda Aparts & Suites;4508.5;8.7;78;
+616;Faena Hotel Buenos Aires;32956.5;8.8;247;5
+617;InterContinental Buenos Aires;18605.5;8.5;149;5
+618;Unique Studio in Palermo Hollywood;6286.5;9.6;4;
+619;VyR Buenos Aires Palermo;3810;7.3;77;
+620;Homelike;2857.5;8.9;102;
+621;Cedro Azul;2159;8;18;
+622;JFK Apartments;4762.5;9.1;144;
+623;Hotel Dolmen;5715;8.3;814;4
+624;Impecable monoambiente en Belgrano;5715;9.5;22;
+625;departamento;2857.5;9.5;67;
+626;Ultra Hotel Buenos Aires;6477;7.1;587;4
+627;Tower Rock Palermo Buenos Aires Soler;6985;9.2;21;
+628;Modern Apartment Rivas - Swimming Pool;3492.5;9;36;
+629;Tre Design Apartments;4762.5;7.6;281;
+630;Riobamba Street;5715;9.5;37;
+631;Luxury La Abadía;4445;9.6;69;
+632;Tango Cozy Estudio Luminoso WiFi;4127.5;9.8;113;
+633;Feir's Park Hotel;9271;8.3;531;5
+634;ISI Baires Rental Apart & Suites;3048;7.5;576;
+635;Studio Iq;3492.5;9.4;49;
+636;Apartamento en Belgrano Luminoso y Tranquilo. WIFI;3937;9.4;71;
+637;Excelente amplio y luminoso 2 ambientes en Recoleta;2159;9.6;11;
+638;Cristal Palace Hotel;3683;7.2;335;4
+639;Arrabal Porteño;3810;8.9;29;
+640;Piccaluga Apartments;3746.5;8.5;114;
+641;New Apartamento Dorrego C;4572;9.4;17;
+642;The House;9525;7.8;16;
+643;Esplendido con vista al Rio. Dos dormitorios en suite. Gym. Piscina. Seguridad;8572.5;9.7;7;
+644;Apartamento Palermo Soho Tango & WiFi;4826;9.8;60;
+645;Carsson Hotel Downtown Buenos Aires;4445;7.9;773;4
+646;Alto Palermo - Frente Parque Las Heras;2159;9.8;9;
+647;Deluxe Seniors;4445;8.4;100;
+648;Grace Home;2349.5;9.5;13;
+649;Roosevelt Suites;3111.5;7.9;11;
+650;Departamento Palermo cochera s c Visa Usa La Rural;2984.5;8.9;7;
+651;Howard Johnson Plaza Buenos Aires;5016.5;8.9;532;4
+652;Own Madero;8699.5;8.8;620;4
+653;Holy Hostel;2667;8;516;
+654;Savoy Hotel;9715.5;8.6;483;4
+655;1828 Smart Hotel Boutique;12446;8.8;208;5
+656;Consorcio Pasaje Gutierrez;4445;9.7;31;
+657;Hostel Positivo;1587.5;9.3;6;
+658;Hotel Master Suite Devoto;8763;8.7;40;
+659;Poetry Building Recoleta;11049;9.2;68;
+660;Hebe Suite;5397.5;9.4;20;
+661;Dazzler by Wyndham Buenos Aires San Martin;6286.5;7.9;684;4
+662;Argenta Suites Belgrano;8890;8.8;206;4
+663;Magnolia Hotel Boutique;10668;9.1;158;4
+664;En el corazón de Buenos Aires;4445;9.8;20;
+665;Hotel Dos Mundos;1841.5;6.8;30;
+666;Apartamento Viajero;3175;9.7;52;
+667;Suite Porteña;4254.5;8.5;11;
